@@ -11,9 +11,9 @@
 
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fathonidf&theme=maroongold" alt="fathonidf" style="display:inline-block;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=fathonidf&show_icons=true&locale=en&theme=maroongold" alt="fathonidf" style="display:inline-block;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fathonidf&theme=shadow_red" alt="fathonidf" style="display:inline-block;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fathonidf&show_icons=true&locale=en&theme=shadow_red" alt="fathonidf" style="display:inline-block;"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathonidf&layout=compact&theme=maroongold" alt="fathonidf" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathonidf&layout=compact&theme=shadow_red" alt="fathonidf" />
 </div>
