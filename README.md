@@ -1,5 +1,4 @@
-## Hi there 👋
-### Nama aku Daffa Mohamad Fathoni
+## Hi there 👋 I'm Daffa Mohamad Fathoni!
 
 <!-- - 🔭 I’m currently working on -->
 - 🌱 I’m currently learning Spring, Next.js, and React.js
