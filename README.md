@@ -1,5 +1,5 @@
-## Hi there 👋 I'm Daffa Mohamad Fathoni!
 ![Profile Views](https://komarev.com/ghpvc/?username=fathonidf&style=for-the-badge)
+[](header.png)
 
 ---
 
