@@ -14,8 +14,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathonidf&layout=compact&theme=ambient_gradient" alt="fathonidf" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fathonidf&theme=ambient_gradient" alt="fathonidf" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fathonidf&show_icons=true&locale=en&theme=ambient_gradient" alt="fathonidf" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fathonidf&theme=ambient_gradient" alt="fathonidf" style="display:inline-block;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fathonidf&show_icons=true&locale=en&theme=ambient_gradient" alt="fathonidf" style="display:inline-block;"/>
 </div>
