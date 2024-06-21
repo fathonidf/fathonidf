@@ -2,7 +2,6 @@
 <div align="center">
   <img src="header.png"/>
 </div>
----
 
 - 🌱 I’m currently learning **Spring, Next.js, and React.js**
   
