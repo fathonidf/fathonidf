@@ -7,5 +7,5 @@
 - 📫 How to reach me: daffafathoni@gmail.com
   
 - ⚡ Fun facts: I love cats and playing classical music on piano
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fathonidf&" alt="fathonidf" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=fathonidf&show_icons=true&locale=en" alt="fathonidf" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=fathonidf&" alt="fathonidf" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=fathonidf&show_icons=true&locale=en" alt="fathonidf" /></p>
