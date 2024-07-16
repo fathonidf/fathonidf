@@ -3,7 +3,7 @@
   <img src="header.png"/>
 </div>
 
-- 💻 See my website! ![daffafathoni.com](https://daffafathoni.com/)
+- 💻 See my website! <a href="https://www.daffafathoni.com/">daffafathoni.com</a>
 
 - 🌱 I’m currently learning **Spring, Next.js, and React.js**
   
