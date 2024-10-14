@@ -5,7 +5,7 @@
 
 - 💻 See my website! <a href="https://www.daffafathoni.com/">daffafathoni.com</a>
 
-- 🌱 I’m currently learning **Spring, Next.js, and React.js**
+- 🌱 I’m currently studying for 5th semester :)
   
 - 📫 How to reach me: **daffafathoni@gmail.com**
   
