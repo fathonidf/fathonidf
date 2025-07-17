@@ -5,7 +5,7 @@
 
 - 💻 See my website! <a href="https://www.daffafathoni.com/">daffafathoni.com</a>
 
-- 🌱 I’m currently studying for 6th semester :)
+- 🌱 I’m currently studying for 7th semester :)
   
 - 📫 How to reach me: **daffafathoni@gmail.com**
   
